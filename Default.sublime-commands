@@ -1,0 +1,10 @@
+[{
+  "id": "stepwise_activate",
+  "caption": "Stepwise: Activate for this file",
+  "command": "stepwise_activate"
+},
+{
+  "id": "stepwise_step",
+  "caption": "Stepwise: Create new step",
+  "command": "stepwise_step"
+}]

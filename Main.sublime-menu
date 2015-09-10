@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "Tools",
+    "mnemonic": "t",
+    "id": "tools",
+    "children":
+    [
+       { "caption": "Stepwise: Save step", "command": "stepwise_step", "id": "stepwise_step" }
+    ]
+  }
+]
